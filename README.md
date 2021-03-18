@@ -1,4 +1,4 @@
-A collection of dataset, paper and codes for multimodality research of personaliity assessments
+A collection of dataset, paper and codes for multimodality personaliity assessment research
 
 
 ## Datasets
