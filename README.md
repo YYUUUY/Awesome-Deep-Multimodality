@@ -1,5 +1,4 @@
-# Multimodality for Personality Assessments
-
+A collection of dataset, paper and codes for multimodality research of personaliity assessments
 
 
 ## Datasets
