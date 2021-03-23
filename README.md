@@ -28,3 +28,7 @@ Data: [Link](https://github.com/ROC-HCI/UR-FUNNY)
 Keywords: Humor
 
 ## Papers
+
+Multimodal Transformers: 
+
+https://www.aclweb.org/anthology/2020.acl-main.214.pdf
