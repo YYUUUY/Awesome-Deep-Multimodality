@@ -19,4 +19,12 @@ Data: [Link](http://chalearnlap.cvc.uab.es/dataset/24/description/)
 
 Keywords: Big Five, Job Performance
 
+3. UR-FUNNY
+
+Paper: https://roc-hci.com/wp-content/uploads/2019-UR-Funny-Hasan-EMNLP.pdf
+
+Data: [Link](https://github.com/ROC-HCI/UR-FUNNY)
+
+Keywords: Humor
+
 ## Papers
