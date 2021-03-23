@@ -30,5 +30,5 @@ Keywords: Humor
 ## Papers
 
 Multimodal Transformers: 
+Integrating Multimodal Information in Large Pretrained Transformers [Paper Link](https://www.aclweb.org/anthology/2020.acl-main.214.pdf)
 
-https://www.aclweb.org/anthology/2020.acl-main.214.pdf
