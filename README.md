@@ -33,3 +33,5 @@ Keywords: Humor
 
 Integrating Multimodal Information in Large Pretrained Transformers,  [Paper Link](https://www.aclweb.org/anthology/2020.acl-main.214.pdf), ACL 2020
 
+Humor Knowledge Enriched Transformer for Understanding Multimodal Humor [Paper Link](http://hoques.com/Publications/2021/MultimodalHumorAAAI2021_CameraReady.pdf), AAAI, 2021
+
