@@ -1,6 +1,6 @@
 A collection of datasets, papers and algorithms for multimodality deep learning research
 
-With Applications for, Personality Assessment, Humor Understanding
+With Applications for, Personality Assessment, Humor Understanding, Job Interviewing etc.
 
 ## Datasets
 
