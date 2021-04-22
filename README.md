@@ -39,4 +39,4 @@ Humor Knowledge Enriched Transformer for Understanding Multimodal Humor [Paper L
 
 ### Deap Learning Models
 
-Deep Bimodal Regression for Apparent Personality Analysis [Paper Link](https://cs.nju.edu.cn/wujx/paper/eccvw16_APA.pdf)
+Deep Bimodal Regression for Apparent Personality Analysis [Paper](https://cs.nju.edu.cn/wujx/paper/eccvw16_APA.pdf) [Code](https://github.com/zishansami102/First-Impression)
