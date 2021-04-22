@@ -36,3 +36,7 @@ Integrating Multimodal Information in Large Pretrained Transformers,  [Paper Lin
 
 Humor Knowledge Enriched Transformer for Understanding Multimodal Humor [Paper Link](http://hoques.com/Publications/2021/MultimodalHumorAAAI2021_CameraReady.pdf), AAAI, 2021
 
+
+### Deap Learning Models
+
+Deep Bimodal Regression for Apparent Personality Analysis [Paper Link](https://cs.nju.edu.cn/wujx/paper/eccvw16_APA.pdf)
